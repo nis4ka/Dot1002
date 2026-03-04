@@ -1,0 +1,14 @@
+C:\Users\Hayru\OOP_Course\week1\bin\Debug\net9.0\week1.exe
+C:\Users\Hayru\OOP_Course\week1\bin\Debug\net9.0\week1.deps.json
+C:\Users\Hayru\OOP_Course\week1\bin\Debug\net9.0\week1.runtimeconfig.json
+C:\Users\Hayru\OOP_Course\week1\bin\Debug\net9.0\week1.dll
+C:\Users\Hayru\OOP_Course\week1\bin\Debug\net9.0\week1.pdb
+C:\Users\Hayru\OOP_Course\week1\obj\Debug\net9.0\week1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hayru\OOP_Course\week1\obj\Debug\net9.0\week1.AssemblyInfoInputs.cache
+C:\Users\Hayru\OOP_Course\week1\obj\Debug\net9.0\week1.AssemblyInfo.cs
+C:\Users\Hayru\OOP_Course\week1\obj\Debug\net9.0\week1.csproj.CoreCompileInputs.cache
+C:\Users\Hayru\OOP_Course\week1\obj\Debug\net9.0\week1.dll
+C:\Users\Hayru\OOP_Course\week1\obj\Debug\net9.0\refint\week1.dll
+C:\Users\Hayru\OOP_Course\week1\obj\Debug\net9.0\week1.pdb
+C:\Users\Hayru\OOP_Course\week1\obj\Debug\net9.0\week1.genruntimeconfig.cache
+C:\Users\Hayru\OOP_Course\week1\obj\Debug\net9.0\ref\week1.dll
