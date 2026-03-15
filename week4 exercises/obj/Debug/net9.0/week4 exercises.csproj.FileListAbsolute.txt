@@ -1,4 +1,0 @@
-C:\Users\Hayru\OOP_Course\week4 exercises\obj\Debug\net9.0\week4 exercises.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Hayru\OOP_Course\week4 exercises\obj\Debug\net9.0\week4 exercises.AssemblyInfoInputs.cache
-C:\Users\Hayru\OOP_Course\week4 exercises\obj\Debug\net9.0\week4 exercises.AssemblyInfo.cs
-C:\Users\Hayru\OOP_Course\week4 exercises\obj\Debug\net9.0\week4 exercises.csproj.CoreCompileInputs.cache
